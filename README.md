@@ -12,7 +12,7 @@ Limit Order Book event processing and visualisation.
 
 __obAnalytics__ is an R package intended for visualisation and analysis of limit
 order data. The package is experimental and is based on the R code used to
-create the visualisations in this [Limit Order Book Visualisation](http://parasec.net/transmission/order-book-visualisation/) 
+create the visualisations in this [Limit Order Book Visualisation](https://parasec.net/transmission/order-book-visualisation/) 
 article.
 
 ## Installation
