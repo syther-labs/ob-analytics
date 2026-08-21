@@ -78,15 +78,15 @@ generate the pdf manual from code comments.
 ### Example use of obAnalytics package (html) 
 An end-to-end walk-through to demonstrate the main features and functionality of 
 the package is available here:
-http://parasec.net/transmission/ob-analytics/guide.html
+[html guide](http://parasec.net/transmission/ob-analytics/guide.html)
 
 ### Example use (pdf)
-http://parasec.net/transmission/ob-analytics/guide.pdf
+[pdf guide](http://parasec.net/transmission/ob-analytics/guide.pdf)
 
 ### Manual 
 In addition to online ?help, package data and function documentation is 
 available in the form of a manual: 
-http://parasec.net/transmission/ob-analytics/obAnalytics-manual.pdf
+[manual](http://parasec.net/transmission/obAnalytics-manual.pdf)
 
 ## License
 
